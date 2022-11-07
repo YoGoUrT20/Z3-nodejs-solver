@@ -4,7 +4,7 @@ import struct
 import sys
 
 
-
+# 5 previous numbers of your function
 sequence = [
   0.6486486486486486,
   0.7297297297297297,
